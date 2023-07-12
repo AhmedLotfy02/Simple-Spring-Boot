@@ -2,9 +2,7 @@
 Simple app using Spring boot
 
 # Using N-tier Arch
-
-![image](https://github.com/AhmedLotfy02/Simple-Spring-Boot/assets/76037906/a94c4cfd-44bb-4eed-a270-890a9577235d)
-
+<img src="https://i.ibb.co/ZmDwD1N/image.png" alt="image" border="0">
 # Instructions
 1. Open pom.xml with Intelij
 2. Run Main.java
